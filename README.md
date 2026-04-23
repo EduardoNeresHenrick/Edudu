@@ -1,2 +1,4 @@
 # Edudu
-primeiro repositorio da conta muito foda lest go, do curso de git e github
+primeiro repositorio da conta muito foda do curso de git e github
+
+repositorio criado durante uma aula la do curso
